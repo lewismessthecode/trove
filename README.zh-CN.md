@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="public/trove-logo-1024.png" alt="Trove" width="128" height="128" />
+  <img src="public/trove-logo-1024.png" alt="Trove" width="128" height="128" style="border-radius: 22%" />
 </p>
 
 # Trove
 
 Trove 是 [StarDash](https://github.com/boffti/stardash) 的 fork。它在你自己的机器上整理你加星的 GitHub 仓库。
+
+这个仓库是自用的，图个好玩，因为我喜欢这个工具。
 
 StarDash 的版权人是 StarDash Contributors，年份是 2026，许可证是 MIT。声明在 [LICENSE](LICENSE)。Trove 保留这份声明。原项目仍然是 [boffti/stardash](https://github.com/boffti/stardash)。
 

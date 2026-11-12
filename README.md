@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="public/trove-logo-1024.png" alt="Trove" width="128" height="128" />
+  <img src="public/trove-logo-1024.png" alt="Trove" width="128" height="128" style="border-radius: 22%" />
 </p>
 
 # Trove
 
 Trove is a fork of [StarDash](https://github.com/boffti/stardash). It is a local dashboard for the GitHub repositories you have starred.
+
+This repository is for personal use, for fun, because I like this tool.
 
 StarDash is copyright (c) 2026 StarDash Contributors and is licensed under the MIT License. That notice is in [LICENSE](LICENSE). Trove keeps the notice. The original project remains [boffti/stardash](https://github.com/boffti/stardash).
 
