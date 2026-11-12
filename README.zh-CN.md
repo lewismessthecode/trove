@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="public/trove-logo-1024.png" alt="Trove" width="128" height="128" />
+</p>
+
 # Trove
 
 Trove 是 [StarDash](https://github.com/boffti/stardash) 的 fork。它在你自己的机器上整理你加星的 GitHub 仓库。

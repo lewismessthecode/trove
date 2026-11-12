@@ -5,6 +5,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { GitHubIcon } from "@/components/icons/github-icon"
 import { PatLoginForm } from "@/components/pat-login-form"
 import { APP_NAME } from "@/lib/brand"
+import { TroveLogo } from "@/components/trove-logo"
 import { useI18n } from "@/components/i18n-provider"
 
 export function LoginContent({
@@ -35,8 +36,8 @@ export function LoginContent({
     <main className="flex min-h-screen items-center justify-center bg-background p-4">
       <Card className="w-full max-w-md">
         <CardHeader className="text-center">
-          <div className="mx-auto mb-2 flex h-12 w-12 items-center justify-center rounded-full bg-primary/10">
-            <GitHubIcon className="h-6 w-6" />
+          <div className="mx-auto mb-2 flex justify-center">
+            <TroveLogo size={48} />
           </div>
           <CardTitle className="text-2xl">
             {t(`Sign in to ${APP_NAME}`, `登录 ${APP_NAME}`)}
