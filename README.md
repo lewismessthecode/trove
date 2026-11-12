@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="public/trove-logo-1024.png" alt="Trove" width="128" height="128" />
+</p>
+
 # Trove
 
 Trove is a fork of [StarDash](https://github.com/boffti/stardash). It is a local dashboard for the GitHub repositories you have starred.
